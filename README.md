@@ -45,11 +45,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/defaultmillena/defaultmillena/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
