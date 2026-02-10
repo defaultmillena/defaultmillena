@@ -29,7 +29,7 @@
 ###
 
 <div align="left">
-  <a href="millena@cloud8.in" target="_blank">
+  <a href="c8millena@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="wa.me/5513991153585" target="_blank">
